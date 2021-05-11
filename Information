@@ -1,0 +1,5 @@
+The 1st data I am going to use is Foursquare locations as follows:
+https://foursquare.com/explore?mode=url&near=Taipei%2C%20Taiwan&nearGeoId=72057594039596277&q=taiwan
+
+The 2nd data is MRT locations as follows:
+https://data.taipei/api/getDatasetInfo/downloadResource?id=cfa4778c-62c1-497b-b704-756231de348b&rid=d960c0b1-61a2-4822-9850-86fb1cb27264
